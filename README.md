@@ -66,7 +66,8 @@ If I continue this project, I’d like to:
 - Add basic tests for the CRUD functions
 
 ## Screenshots
-- (Optional: add a screenshot of your UI here)
+<img width="825" height="480" alt="Screenshot 2026-01-13 at 9 30 01 PM" src="https://github.com/user-attachments/assets/b8965a91-1532-4c8e-a96f-e0a5111b343d" />
+
 
 ---
 **Author:** Vansh Bherwal 
