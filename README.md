@@ -3,7 +3,7 @@
 A lightweight to-do list web app built with **HTML, CSS, and JavaScript** (no frameworks). Users can **create, view, edit, and delete** to-dos, and the list persists across refreshes using **browser localStorage**.
 
 ## Live Demo
-- (Add a link here once you deploy with GitHub Pages)
+https://vanshbherwal.github.io/Todos-Project/
 
 ## Features
 - ✅ **Create** a to-do
